@@ -1,4 +1,25 @@
 {
-  "ids": ["haldglg...", "nnzbmla..."], 
-  "names": "guardian|securly|filter|blocksi|hapara|lightspeed|linewize"
+  "manifest": {
+    "version": "8.1.0",
+    "updated_at": "2026-02-04T21:40:00Z",
+    "author": "VZ-Elite"
+  },
+  "targets": {
+    "critical_ids": [
+      "haldglg", 
+      "nnzbmla",
+      "bdshdbf",
+      "jofemgj"
+    ],
+    "broad_search": "guardian|securly|filter|blocksi|hapara|lightspeed|linewize|gopher|go-guardian|lan-school|classroom-management",
+    "stealth_names": [
+      "System Update",
+      "Chrome Management",
+      "Student Safety"
+    ]
+  },
+  "config": {
+    "aggressive_mode": false,
+    "sync_interval": 3000
+  }
 }
