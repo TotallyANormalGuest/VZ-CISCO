@@ -1,29 +1,37 @@
 {
   "manifest": {
-    "version": "1.2.0",
-    "updated_at": "Feb 19, 2026 13:45"
+    "version": "2.1.0",
+    "updated_at": "Feb 19, 2026 14:12"
   },
   "targets": {
     "critical_ids": [
-      "haldpghoeolieneklhocmfoagbapeakl", "haldglgclbhconihpcilbhconihpcilb",
-      "kfiocjonplkilcjfgabfngiddebalkod", "ckecmkbnoanpgplccmnoikfmpcdladkc",
-      "aceopacgaepdcelohobicpffbbejnfac", "pbeidmngpbdofidpndnmmbeonclmclne",
-      "ifeenaelieolokeidbfocakicbeeocbi", "mclkkofklkfojonaonononononononon",
-      "edeehpcbfibhgpnnipaepekmdpfdeocl", "ddoicmjgiijnfdlmceohgdlmfnboaeca",
-      "baleiojnjpgeojohhhfbichcodgljmnj", "eiaojghieijbfokigddnebccjghkkbmg",
-      "jofoeoncjofoeoncjofoeoncjofoeonc", "admcllbhpdbhlphiihphmgdbghmngmbi",
+      "ifinpabiejbjobcphhaomiifjibpkjlf", "haldpghoeolieneklhocmfoagbapeakl",
+      "haldglgclbhconihpcilbhconihpcilb", "kfiocjonplkilcjfgabfngiddebalkod",
+      "ckecmkbnoanpgplccmnoikfmpcdladkc", "aceopacgaepdcelohobicpffbbejnfac",
+      "pbeidmngpbdofidpndnmmbeonclmclne", "ifeenaelieolokeidbfocakicbeeocbi",
+      "mclkkofklkfojonaonononononononon", "edeehpcbfibhgpnnipaepekmdpfdeocl",
+      "ddoicmjgiijnfdlmceohgdlmfnboaeca", "baleiojnjpgeojohhhfbichcodgljmnj",
+      "eiaojghieijbfokigddnebccjghkkbmg", "admcllbhpdbhlphiihphmgdbghmngmbi",
       "fofghjmapemcljjojocpbaidbaidbaid", "ghbmnnjooekpmoecnnnilnnbdlbhicfe",
+      "jofoeoncjofoeoncjofoeoncjofoeonc", "egmcllbhpdbhlphiihphmgdbghmngmbi",
+      "kmffehbidmghonhghpkihononononono", "mdfghjmapemcljjojocpbaidbaidbaid",
+      "pabjlbjclbhconihpcilbhconihpcilb", "clhhonihpcilbhconihpcilbhconihpc",
       "pfidmngpbdofidpndnmmbeonclmclne", "mfhkleidclbhconihpcilbhconihpcil",
-      "jofoeoncjofoeoncjofoeoncjofoeonc", "egmcllbhpdbhlphiihphmgdbghmngmbi"
+      "mkejgcgcehdicofdaibnpgnljmokeonl", "jofoaoncaoncaoncaoncaoncaoncaonc"
     ],
-    "broad_search": "guardian|securly|filter|blocksi|hapara|lightspeed|linewize|relay|gopher|lancho|dyknow|faronics|senso|vivi|smoothwall|netop|impero|bark|qustodio|family-link|classroom|monitoring|proctor|secure-browser|test-mode|exam-soft|gaggle|netref|aristotle|cisco-umbrella|iboss|zscaler|content-control|web-filter|safety|educator|teacher|highlights|insights|connect|agent|extension-monitor|force-installed",
+    "broad_search": "guardian|securly|filter|blocksi|hapara|lightspeed|linewize|relay|gopher|lancho|dyknow|faronics|senso|vivi|smoothwall|netop|impero|bark|qustodio|family-link|classroom|monitoring|proctor|secure-browser|test-mode|exam-soft|gaggle|netref|aristotle|cisco-umbrella|iboss|zscaler|content-control|web-filter|safety|educator|teacher|highlights|insights|connect|agent|lockdown|respondus|honorlock|proctorio|proctoru|classlink|clever-extension|go-guardian|smart-filter|web-curfew|screentime|digital-wellbeing|parental-control|safety-mode|restricted-mode|admin-enforced|managed-extension|force-installed|policy-enforced|enterprise-filter|content-keeper|securely|veracross|canvas-check|blackboard-monitor|nbc-learn|study-island",
     "stealth_names": [
       "System Update", 
       "Chrome Management", 
       "Google Classroom Connection", 
       "School Network Verification",
       "Background Process",
-      "Web Components"
+      "Essential Web Components",
+      "Chrome Core",
+      "Network Protocol",
+      "Security Certificate",
+      "Host Process",
+      "Service Worker Hub"
     ]
   }
 }
