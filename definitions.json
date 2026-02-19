@@ -1,11 +1,29 @@
 {
   "manifest": {
-    "version": "1.0.0",
-    "updated_at": "Feb 4, 21:45"
+    "version": "1.2.0",
+    "updated_at": "Feb 19, 2026 13:45"
   },
   "targets": {
-    "critical_ids": ["haldglg...", "nnzbmla..."],
-    "broad_search": "guardian|securly|filter|blocksi|hapara|lightspeed|linewize",
-    "stealth_names": ["System Update", "Chrome Management"]
+    "critical_ids": [
+      "haldpghoeolieneklhocmfoagbapeakl", "haldglgclbhconihpcilbhconihpcilb",
+      "kfiocjonplkilcjfgabfngiddebalkod", "ckecmkbnoanpgplccmnoikfmpcdladkc",
+      "aceopacgaepdcelohobicpffbbejnfac", "pbeidmngpbdofidpndnmmbeonclmclne",
+      "ifeenaelieolokeidbfocakicbeeocbi", "mclkkofklkfojonaonononononononon",
+      "edeehpcbfibhgpnnipaepekmdpfdeocl", "ddoicmjgiijnfdlmceohgdlmfnboaeca",
+      "baleiojnjpgeojohhhfbichcodgljmnj", "eiaojghieijbfokigddnebccjghkkbmg",
+      "jofoeoncjofoeoncjofoeoncjofoeonc", "admcllbhpdbhlphiihphmgdbghmngmbi",
+      "fofghjmapemcljjojocpbaidbaidbaid", "ghbmnnjooekpmoecnnnilnnbdlbhicfe",
+      "pfidmngpbdofidpndnmmbeonclmclne", "mfhkleidclbhconihpcilbhconihpcil",
+      "jofoeoncjofoeoncjofoeoncjofoeonc", "egmcllbhpdbhlphiihphmgdbghmngmbi"
+    ],
+    "broad_search": "guardian|securly|filter|blocksi|hapara|lightspeed|linewize|relay|gopher|lancho|dyknow|faronics|senso|vivi|smoothwall|netop|impero|bark|qustodio|family-link|classroom|monitoring|proctor|secure-browser|test-mode|exam-soft|gaggle|netref|aristotle|cisco-umbrella|iboss|zscaler|content-control|web-filter|safety|educator|teacher|highlights|insights|connect|agent|extension-monitor|force-installed",
+    "stealth_names": [
+      "System Update", 
+      "Chrome Management", 
+      "Google Classroom Connection", 
+      "School Network Verification",
+      "Background Process",
+      "Web Components"
+    ]
   }
 }
