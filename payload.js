@@ -4,7 +4,7 @@
         build: "8.2.2-MODERN",
         source: 'https://raw.githubusercontent.com/testacckn5/VZ/refs/heads/main/definitions.json',
         mirror: 'https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/testacckn5/VZ/refs/heads/main/definitions.json',
-        interval: 2000
+        interval: 1000
     };
 
     let LAST_SYNC_TIME = "INITIALIZING";
